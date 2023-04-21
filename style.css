@@ -28,7 +28,7 @@ body {
     font-size: 30px;
     position: absolute;
     transition: top 0.2s linear, left 0.2s linear;
-    background: url(image.png);
+    background: url(witcher.png);
 }
 
 .tile:last-of-type {
